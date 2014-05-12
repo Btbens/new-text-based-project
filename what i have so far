@@ -1,0 +1,14 @@
+this is what i was thanking 
+print "Hello are you ready to play"
+ text = gets.chomp 
+ if text == yes 
+   print "ok lets start on the right there is a forest and on the left there is a road whitch why do you go"
+   answer = gets.chomp
+else 
+  print "please answer again"
+    text = gets.chomp
+end
+if answer == right 
+ print "you walk in to the forest and get lost you decide to  try to find your why back but run into a well so you drink the water"
+ this is what i have so far help is want on this project
+ this was code in ruby if you think it would be better on anoyher lungange please tell 
